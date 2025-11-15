@@ -1,5 +1,5 @@
 # Project Context
-This repository is made in partial fulfillment of Game Development course.
+This repository is made in partial fulfillment of Game Development course, of STI College.
 
 ## Description
 This is a 2D space shooter game where players need to shoot enemies while avoiding friendly ones. The game ends when the player runs out of lives, and pressing "R" restarts the game.
